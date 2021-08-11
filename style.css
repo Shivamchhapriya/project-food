@@ -1,0 +1,109 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.navigation{
+    background-color: aqua;
+    
+}
+
+ul{
+    background-color: rgb(255, 0, 157);
+    list-style-type:none;
+}
+
+li{
+    float: left;
+}
+
+  li {
+    text-decoration: none;
+    padding:0px 20px;
+    margin: 20px 50px;
+    color: chartreuse;
+    font-size: 25px;
+    background-color: cyan;
+}
+
+
+
+
+
+
+
+.img1{
+    background-image: url(images/front4.jpg);
+    width:100%;
+    height:600px;
+    background-size: cover;
+    
+    
+}
+
+.salaad{
+    font-size:100px;
+    color:rgb(30, 238, 23);
+    padding:80px 0px 0px 350px ;
+
+}
+
+.pare1{
+    margin: 50px 350px;
+    font-size: 25px;
+    color: rgb(76, 13, 223);
+}
+
+.pare2{
+    margin: -50px 200px;
+    color: orchid;
+    font-size: 20px;
+
+}
+
+.our{
+    padding: 60px 20px;
+    font-size: medium;
+}
+
+.had{
+    font-size: 80px;
+}
+
+
+.pear{
+    margin: 40px 150px;
+}
+
+.di{
+    float:right;
+    margin: -95px 110px;
+}
+
+.green{
+    margin: 40px 150px;
+
+}
+
+.kale{
+    float: right;
+    margin: -95px 150px;
+
+}
+
+.gnud{
+    margin: 40px 150px;
+}
+
+.relli{
+    float: right;
+    margin: -113px 150px;
+}
+
+.lasa{
+    
+    text-align: center;
+    padding: 0px 350px;
+    margin: -150px 0px;
+
+}
